@@ -1,0 +1,17 @@
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\AddIn.dll.config
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\AddIn.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\AddIn.pdb
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\AddIn.dll.manifest
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\AddIn.vsto
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\Microsoft.Office.Tools.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\obj\Debug\AddIn.Properties.Resources.resources
+C:\Project\YS\2.Demo\DEMO\AddIn\obj\Debug\AddIn.csproj.GenerateResource.Cache
+C:\Project\YS\2.Demo\DEMO\AddIn\obj\Debug\AddIn.dll
+C:\Project\YS\2.Demo\DEMO\AddIn\obj\Debug\AddIn.pdb
+C:\Project\YS\2.Demo\DEMO\AddIn\obj\Debug\AddIn.csprojResolveAssemblyReference.cache

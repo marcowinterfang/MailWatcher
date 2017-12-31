@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Type name ="Mail">C:\Outlook\Mails\</Type>
+  <Type name="Attachment">C:\Outlook\Attachments\</Type>
+  <Type name="DBConnection"></Type>
+</root>

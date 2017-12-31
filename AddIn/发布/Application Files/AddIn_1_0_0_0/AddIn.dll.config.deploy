@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="mailpath" value="C:\Project\YS\2.Demo\Mails\" />
+    <add key="attachmentpath" value="C:\Project\YS\2.Demo\Attachments\" />
+  </appSettings>
+</configuration>
